@@ -1,0 +1,1 @@
+# Projeto para analiser base de dados de salários na área de dadso entre os anos de 2020 e 2022 com funcionários de diversas localidades e que trabalham tanto remotamente quanto presencial em diferentes níveis de experiência.
